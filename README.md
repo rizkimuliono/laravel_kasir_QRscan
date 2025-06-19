@@ -8,7 +8,7 @@ Intruktur : Rizki Muliono, S.Kom, M.Kom
 
 ## Aplikasi Scan Produk QR / Barcode
 <p align="center">
-<img src="https://github.com/rizkimuliono/laravel_kasir_QRscan/blob/main/public/product-scan.png?raw=true" width="300"></p>
+<img src="https://github.com/rizkimuliono/laravel_kasir_QRscan/blob/main/public/product-scan.png?raw=true" width="100%"></p>
 
 Adalah demo aplikasi laravel untuk contoh project Scan Produk menggunakan QR dan Barcode 2D:
 
