@@ -12,5 +12,5 @@ Intruktur : Rizki Muliono, S.Kom, M.Kom
 
 Adalah demo aplikasi laravel untuk contoh project Scan Produk menggunakan QR dan Barcode 2D:
 
-- [Barcode menggunakan](http://barcode.tec-it.com/).
-- [Informatika UMA](https://informatika.uma.ac.id).
+- [Barcode menggunakan barcode.tec-it.com](http://barcode.tec-it.com/).
+- [Informatika Universitas Medan Area](https://informatika.uma.ac.id).
